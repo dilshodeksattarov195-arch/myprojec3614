@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessiondonnect",
+        "uuid": 36317086,
+        "checksum": "ab7qp"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
